@@ -7,6 +7,7 @@
 const memberCSVData = 
 `MIST.6010-081,Team_0,test_user1@student.uml.edu,Luvai, Motiwalla
 MIST.6010-081,Team_0,test_user2@student.uml.edu, Sunder, Pinchai
+MIST.6010-081,Team_0,test_user3@student.uml.edu, Sunder, Pinchai
 MIST.6010-081,Team_1,steven_hong@student.uml.edu,Steven,Hong
 MIST.6010-081,Team_1,megan_krueger@student.uml.edu,Megan,Krueger
 MIST.6010-081,Team_1,gregory_vanover@student.uml.edu,Gregory,Vanover
